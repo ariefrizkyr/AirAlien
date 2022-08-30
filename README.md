@@ -1,5 +1,5 @@
 # AirAlien
-### Developed by [Arief R Ramadhan](https://ariefrizky.com)
+### Developed by [Arief R Ramadhan](https://ariefrizkyr.com)
 
 This is the Airbnb clone which learned from [Code4Startup](https://code4startup.com).
 
